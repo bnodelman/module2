@@ -90,6 +90,5 @@ p {
 }
 
 h2 {
-  position: absolute;
-  left: 20%;
+  align: margin-right;
 }
