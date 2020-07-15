@@ -13,16 +13,17 @@ h1 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 12px;
-  font-family: Helvetica;
+ font-family: Helvetica;
   color: white;
   padding: 10px;
   position: relative;
+  font-size: 10px;
 }
 .t{
   position: absolute;
   border: 1px solid black;
   float: right;
+  font-size: 14px;
 }
 /* Simple Responsive Framework. */
 .row {
