@@ -156,8 +156,6 @@ p {
   .col-sm-12 {
     width: 100%;
   }
-  #titlelg {
-    position: absolute;
-    float: right;
+
   }
 }
