@@ -44,15 +44,7 @@ p {
     width: 33%;
   }
 
-   
-  }
-  .title{
-    float: left;
-    padding: 5px;
-    border: 1px solid black;
-    position: absolute;
-    left: 83%;
-    bottom: 85%;
+
   
 
 
@@ -93,4 +85,3 @@ p {
     width: 100%;
   }
 }
-
