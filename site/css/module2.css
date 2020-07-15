@@ -16,8 +16,13 @@ h1 {
   font-family: Helvetica;
   color: white;
   padding: 10px;
+  position: relative;
 }
-
+.t{
+  position: absolute;
+  border: 1px solid black;
+  text-align: right;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
