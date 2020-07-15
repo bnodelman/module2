@@ -53,9 +53,9 @@ p {
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3 {
-    float: left;
-    border: 1px solid white;
-    padding: 12px;
+       float: left;
+    padding: 10px;
+    border: 1px solid black;
   }
   .col-md-1 {
     width: 50%;
@@ -71,8 +71,9 @@ p {
 /********** Small devices only **********/
 @media (max-width: 767px) {
   .col-md-1, .col-md-2, .col-md-3 {
-    float: left;
-    border: 1px solid white;
+      float: left;
+    padding: 10px;
+    border: 1px solid black;
   }
   .col-md-1 {
     width: 100%;
