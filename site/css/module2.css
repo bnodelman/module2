@@ -13,6 +13,7 @@ h1 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 12px;
   font-family: Helvetica;
   color: white;
   padding: 10px;
@@ -21,7 +22,7 @@ h1 {
 .t{
   position: absolute;
   border: 1px solid black;
-  text-align: right;
+  float: right;
 }
 /* Simple Responsive Framework. */
 .row {
