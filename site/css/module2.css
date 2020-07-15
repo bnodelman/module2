@@ -112,9 +112,11 @@ p {
     width: 100%;
   }
 }
-
-.container{
+.title{
   position: relative;
+}
+.container{
+  position: absolute;
 }
 
 /********** Small devices only **********/
