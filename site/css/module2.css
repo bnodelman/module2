@@ -26,7 +26,9 @@ p {
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3{
     float: left;
+    padding: 10px;
     border: 1px solid black;
+    background-color: #77815c;
 
   }
   .col-lg-1 {
@@ -48,6 +50,7 @@ p {
     float: left;
     padding: 10px;
     border: 1px solid black;
+    background-color: #77815c;
   }
   .col-md-1 {
     width: 50%;
@@ -66,6 +69,7 @@ p {
       float: left;
     padding: 10px;
     border: 1px solid black;
+    background-color: #77815c;
   }
   .col-sm-1 {
     width: 100%;
