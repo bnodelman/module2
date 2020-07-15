@@ -39,6 +39,7 @@ p {
     padding: 10px;
     border-spacing: 10px;
     border: 1px solid black;
+     grid-column-gap: 20px;
 
   }
   .col-lg-1 {
