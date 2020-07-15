@@ -34,6 +34,7 @@ p {
   }
   .col-lg-1 {
     width: 33%;
+
   }
 }
   .col-lg-2 {
@@ -43,14 +44,13 @@ p {
     width: 33%;
   }
 
-  .title-large {
+   .title-large {
     float: left;
     padding: 5px;
     border: 1px solid black;
     position: absolute;
     left: 83%;
-    bottom: 90%;
-  
+    bottom: 85%;
   }
   
 
