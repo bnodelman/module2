@@ -26,6 +26,7 @@ p {
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
+  column-gap: 10px;
 }
 
 /********** Large devices only **********/
