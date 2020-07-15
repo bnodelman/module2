@@ -13,7 +13,8 @@ p {
   width: 90%;
   height:auto;
   margin-right: auto;
-  margin-left: 12px;
+  margin-left: auto;
+  padding-left: 12px;
   font-family: Helvetica;
   color: white;
 }
