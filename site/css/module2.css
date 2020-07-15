@@ -22,7 +22,7 @@ h1 {
 .t{
   position: absolute;
   border: 1px solid black;
-  float: left;
+  float: right;
   font-size: 14px;
   left: 33%
   top: 0%;
