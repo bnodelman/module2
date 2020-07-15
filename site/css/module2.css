@@ -53,7 +53,7 @@ p {
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3 {
-       float: left;
+    float: left;
     padding: 10px;
     border: 1px solid black;
   }
