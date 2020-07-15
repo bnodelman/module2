@@ -88,3 +88,8 @@ p {
     width: 100%;
   }
 }
+
+.title {
+  position: absolute;
+  align: top-right;
+}
