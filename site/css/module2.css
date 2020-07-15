@@ -25,6 +25,10 @@ h1 {
   float: right;
   font-size: 14px;
 }
+
+.topmargin {
+  margin-top: 14px;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
