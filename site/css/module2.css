@@ -48,7 +48,7 @@ p {
     padding: 5px;
     border: 1px solid black;
     position: absolute;
-    align-items: top-right;
+    text-anchor: top-right;
   }
   
 
